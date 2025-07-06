@@ -1,7 +1,7 @@
 # Sprint 1
 
 
-## 📌 Proje Planlaması
+##  Proje Planlaması
 
 - Proje fikri belirlendi. 
 - Fikrin uygulanabilirliği ve özgünlüğü açısından:
