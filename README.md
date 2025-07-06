@@ -9,7 +9,7 @@
   - Veri seti incelemeleri gerçekleştirildi.
   - Pazar analizi tamamlandı.
     
-![Toplantı](screenshots/Toplantı.png)
+![Toplantı](screenshots/Toplantı.jpg)
 ![Toplantı](screenshots/Toplantı2.png)
 ![Notlar](screenshots/Notlar.png)
 ##  Puanlama Sistemi
