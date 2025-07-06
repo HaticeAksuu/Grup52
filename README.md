@@ -22,9 +22,9 @@ Toplam 1000 puanlık bir hedef belirlenmiştir.
 
 İlk sprintte, planlama ve hazırlık süreci tamamlandığı için Sprint 1 için 250 puanlık hedef belirlenmiş ve bu hedef başarıyla tamamlanmıştır.
 
-İkinci sprintte, odak noktası sistemin temelini oluşturan yapay zeka modelinin geliştirilmesi ve kodlama sürecinin başlatılmasıdır. Veri setleri temizlenmiş, sınıflandırma modeli eğitilmeye başlanmış, temel API mimarisi kurulmuş ve görsel analiz fonksiyonları test edilmiştir. Bu sprintte teknik çalışmalar ön plandadır ve bu nedenle 350 puan hedeflenmiştir.
+İkinci sprintte, odak noktası sistemin temelini oluşturan yapay zeka modelinin geliştirilmesi ve kodlama sürecinin başlatılmasıdır. Veri setleri temizlenmesi, sınıflandırma modeli eğitilmeye başlanması, temel API mimarisi kurulması ve görsel analiz fonksiyonları test edilmesi. Bu sprintte teknik çalışmalar ön plandadır ve bu nedenle 350 puan hedeflenmiştir.
 
-Üçüncü sprintte ise projenin tamamlanması hedeflenmektedir. Bu kapsamda arayüz ile modelin entegrasyonu sağlanacak, kullanıcıdan alınan görsellerle sistemin analiz yapması mümkün hale gelecektir. Ayrıca hata ayıklama, testler ve kullanıcı deneyimi iyileştirmeleri yapılacaktır. Bu sprint için 400 puanlık bir hedef belirlenmiştir.
+Üçüncü sprintte ise projenin tamamlanması hedeflenmektedir. Bu kapsamda arayüz ile modelin entegrasyonu sağlanması, kullanıcıdan alınan görsellerle sistemin analiz yapması mümkün hale gelmesi. Ayrıca hata ayıklama, testler ve kullanıcı deneyimi iyileştirmeleri yapılması. Bu sprint için 400 puanlık bir hedef belirlenmiştir.
 
 
 ##  Sprint Board
