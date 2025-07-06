@@ -8,6 +8,7 @@
   - Kaynak taraması yapıldı.
   - Veri seti incelemeleri gerçekleştirildi.
   - Pazar analizi tamamlandı.
+    
 ![Toplantı](screenshots/Toplantı.png)
 ![Toplantı](screenshots/Toplantı2.png)
 ![Notlar](screenshots/Notlar.png)
@@ -19,7 +20,7 @@
 
 - Sprint board yönetimi için **Trello** kullanımı tercih edildi.
 - Trello panosu oluşturuldu ve ekip üyeleri eklendi.
-
+![Notlar](screenshots/Trello.png)
 ##  Ürün Durumu
 
 - Veri seti ve kaynak taramaları halen devam etmektedir.
@@ -32,9 +33,4 @@
 ##  Kullanılan Yapay Zeka
 
 - Yapay zeka motoru olarak **Gemini** kullanılmasına karar verilmiştir.
-
-## Proje Yönetimi
-
-- Proje yönetimi ve görev takibi için **Trello** aktif olarak kullanılacaktır.
-
 
