@@ -20,7 +20,7 @@
 
 - Sprint board yönetimi için **Trello** kullanımı tercih edildi.
 - Trello panosu oluşturuldu ve ekip üyeleri eklendi.
-![Notlar](screenshots/Trello.png)
+![Notlar](screenshots/trello.png)
 ##  Ürün Durumu
 
 - Veri seti ve kaynak taramaları halen devam etmektedir.
