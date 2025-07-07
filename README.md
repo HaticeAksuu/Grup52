@@ -1,19 +1,22 @@
 # Sprint 1
 
 <details>
-## Sprint Notları
-  
+<summary><strong>📝 Sprint Notları</strong></summary>
 - Proje fikri belirlendi. 
 - Fikrin uygulanabilirliği ve özgünlüğü açısından:
   - Kaynak taraması yapıldı.
   - Veri seti incelemeleri gerçekleştirildi.
   - Pazar analizi tamamlandı.
 
-###  Veri Kaynakları
-- **Kaggle** ve **ISIC Archive**, proje için temel veri kaynakları olarak belirlenmiştir.
-- 
-###  Kullanılan Yapay Zeka
-- Yapay zeka motoru olarak **Gemini** kullanılmasına karar verilmiştir.
+<br/>
+
+<strong>🔍 Veri Kaynakları</strong>  
+- Kaggle ve ISIC Archive, proje için temel veri kaynakları olarak belirlenmiştir.
+
+<br/>
+
+<strong>🧠 Kullanılan Yapay Zeka</strong>  
+- Yapay zeka motoru olarak Gemini kullanılmasına karar verilmiştir.
 
 </details>
 
