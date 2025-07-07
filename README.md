@@ -8,14 +8,10 @@
   - Kaynak taraması yapıldı.
   - Veri seti incelemeleri gerçekleştirildi.
   - Pazar analizi tamamlandı.
-
 <br/>
-
 <strong> Veri Kaynakları</strong>  
 - Kaggle ve ISIC Archive, proje için temel veri kaynakları olarak belirlenmiştir.
-
 <br/>
-
 <strong> Kullanılan Yapay Zeka</strong>  
 - Yapay zeka motoru olarak Gemini kullanılmasına karar verilmiştir.
 
@@ -48,16 +44,18 @@ Toplam 1000 puanlık bir hedef belirlenmiştir. Bu puanlar, her sprintte yapıla
 
 
 <details>
-##  Sprint Board
+<summary><strong>Sprint Board</strong></summary>
 
-- Sprint board yönetimi için **Trello** kullanımı tercih edildi.
-- Trello panosu oluşturuldu ve ekip üyeleri eklendi.
-![Notlar](screenshots/trello.png)
+- Sprint board yönetimi için **Trello** kullanımı tercih edildi.  
+- Trello panosu oluşturuldu ve ekip üyeleri eklendi.  
+<br/>
+<img src="screenshots/trello.png" width="600"/>
 </details>
 
+## 🛠️ Ürün Durumu
 
-##  Ürün Durumu
-- Veri seti ve kaynak taramaları halen devam etmektedir.
+- Veri seti ve kaynak taramaları halen devam etmektedir.  
 - KPI (Anahtar Performans Göstergeleri) için gerekli scriptlerin tanımlanmasına başlanmıştır.
+
 
 
