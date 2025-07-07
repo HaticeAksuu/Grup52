@@ -3,17 +3,17 @@
 ## Sprint Notları
   
   - Proje fikri belirlendi. 
-  - Fikrin uygulanabilirliği ve özgünlüğü açısından:
-  - Kaynak taraması yapıldı.
-  - Veri seti incelemeleri gerçekleştirildi.
+  - Fikrin uygulanabilirliği ve özgünlüğü açısından: kaynak taraması yapıldı, veri seti incelemeleri gerçekleştirildi.
   - Pazar analizi tamamlandı.
+  - Benzer projeler, akademik yayınlar ve mobil sağlık uygulamaları incelendi.
+  - Projenin etik uygunluğu ve medikal doğruluğu göz önünde bulundurularak ön analizler yapıldı.
 <br/>
 <strong> Veri Kaynakları</strong>  
 - Kaggle ve ISIC Archive, proje için temel veri kaynakları olarak belirlenmiştir.
 <br/>
 <strong> Kullanılan Yapay Zeka</strong>  
 - Yapay zeka motoru olarak Gemini kullanılmasına karar verilmiştir.
-
+<br/>
 
 <details>
 <summary><strong> Daily Scrum</strong></summary>
