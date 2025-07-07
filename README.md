@@ -14,7 +14,7 @@
 <strong> Kullanılan Yapay Zeka</strong>  
 - Yapay zeka motoru olarak Gemini kullanılmasına karar verilmiştir.
 
-<br>
+<br/>
 <details>
 <summary><strong> Daily Scrum</strong></summary>
 
