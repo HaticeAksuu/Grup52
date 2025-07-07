@@ -2,6 +2,7 @@
 
 <details>
 <summary><strong>📝 Sprint Notları</strong></summary>
+
   
   - Proje fikri belirlendi. 
   - Fikrin uygulanabilirliği ve özgünlüğü açısından:
@@ -52,10 +53,28 @@ Toplam 1000 puanlık bir hedef belirlenmiştir. Bu puanlar, her sprintte yapıla
 <img src="screenshots/trello.png" width="600"/>
 </details>
 
-## 🛠️ Ürün Durumu
+## Ürün Durumu
 
 - Veri seti ve kaynak taramaları halen devam etmektedir.  
 - KPI (Anahtar Performans Göstergeleri) için gerekli scriptlerin tanımlanmasına başlanmıştır.
 
+<details>
+<summary><strong>Sprint Review</strong></summary>
+  
+Ekiple bir toplantı gerçekleştirildi. Proje fikri beğenildi ve nasıl geliştirileceği üzerine fikir alışverişinde bulunuldu.
+Sprint süresince uygulamanın içeriği detaylandırıldı, eksikler belirlendi ve notlar alındı.
+
+**Sprint Review Katılımcıları:** Hatice Aksu, Sudem Zırhlı, Miray Aykın
+
+</details>
+
+<details>
+<summary><strong> Sprint Retrospective</strong></summary>
+
+- Görev paylaşımı iyiydi, ancak süre planlaması yetersiz kaldı. Bu nedenle ikinci sprint için daha ayrıntılı ve gerçekçi bir zaman planlaması yapılmasına karar verildi.  
+- Trello ve Gemini araçları etkili bir şekilde kullanıldı.  
+- Kaggle ve ISIC veri kaynaklarının ikinci sprintte daha aktif ve derinlemesine kullanılmasına yönelik planlamalar yapıldı.
+
+</details>
 
 
