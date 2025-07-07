@@ -90,9 +90,10 @@ Odak: Entegrasyon ve final ürünün ortaya çıkarılması
 ---
 <details>
 <summary><strong>Sprint Review</strong></summary>
-  
-Ekiple bir toplantı gerçekleştirildi. Proje fikri beğenildi ve nasıl geliştirileceği üzerine fikir alışverişinde bulunuldu.
-Sprint süresince uygulamanın içeriği detaylandırıldı, eksikler belirlendi ve notlar alındı.
+
+Ekiple bir toplantı gerçekleştirildi. Proje fikri ekip tarafından olumlu karşılandı ve nasıl geliştirileceği üzerine fikir alışverişinde bulunuldu.  
+Sprint süresince uygulamanın içeriği detaylandırıldı, eksikler tespit edildi ve notlar alındı.  
+Görev dağılımı yapıldı; ancak görevlerin sürelerine göre yeniden planlanması gerektiği not edildi.
 
 **Sprint Review Katılımcıları:** Hatice Aksu, Sudem Zırhlı, Miray Aykın
 
