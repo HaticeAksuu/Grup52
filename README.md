@@ -7,13 +7,14 @@
   - Pazar analizi tamamlandı.
   - Benzer projeler, akademik yayınlar ve mobil sağlık uygulamaları incelendi.
   - Projenin etik uygunluğu ve medikal doğruluğu göz önünde bulundurularak ön analizler yapıldı.
+
 <br/>
 <strong> Veri Kaynakları</strong>  
 - Kaggle ve ISIC Archive, proje için temel veri kaynakları olarak belirlenmiştir.
 <br/>
 <strong> Kullanılan Yapay Zeka</strong>  
 - Yapay zeka motoru olarak Gemini kullanılmasına karar verilmiştir.
-<br/>
+
 
 <details>
 <summary><strong> Daily Scrum</strong></summary>
@@ -27,17 +28,46 @@
 <details>
 <summary><strong>Puanlama Sistemi</strong></summary>
 
-<strong> Sprint Puanlama ve Tamamlama Mantığı</strong>  
+### Sprint Puanlama ve Tamamlama Mantığı
 
-Toplam 1000 puanlık bir hedef belirlenmiştir. Bu puanlar, her sprintte yapılacak işlerin kapsamına, zorluk derecesine ve proje üzerindeki etkisine göre dağıtılmıştır.
+Toplam hedef puan: **1000 puan**  
+Puanlar, her sprintte yapılacak işlerin:
 
-**Sprint 1 (250 puan):** Planlama ve hazırlık süreci tamamlandığı için bu hedef başarıyla gerçekleştirilmiştir.
+- Kapsamı  
+- Teknik zorluk derecesi  
+- Proje üzerindeki etkisi gibi faktörler göz önünde bulundurularak dağıtılmıştır.
 
-**Sprint 2 (350 puan):** Yapay zeka modelinin geliştirilmesi, veri işleme, kodlama ve API kurulumuna odaklanılacaktır.
 
-**Sprint 3 (400 puan):** Arayüz ve model entegrasyonu, testler ve minimum çalışır ürünün (MVP) ortaya çıkarılması hedeflenmektedir.
+🔹 **Sprint 1 – 250 Puan**  
+- Proje fikri belirlendi  
+- Kaynak ve veri seti araştırması yapıldı  
+- Uygulanabilirlik ve özgünlük analizleri tamamlandı  
+- Gerekli araçlar ve kaynaklar belirlendi
+
+Hedef başarıyla tamamlandı.
+
+---
+
+🔹 **Sprint 2 – 350 Puan**  
+- Yapay zeka modeli geliştirilecek  
+- Veri seti işlenecek  
+- Sınıflandırma ve analiz fonksiyonları yazılacak  
+- API mimarisi kurulacak ve test edilecek
+
+ Odak: Teknik geliştirme ve yapay zeka entegrasyonu
+
+---
+
+🔹 **Sprint 3 – 400 Puan**  
+- Kullanıcı arayüzü geliştirilecek  
+- Arayüz–model–API entegrasyonu yapılacak  
+- Sistem genel testleri gerçekleştirilecek  
+- Minimum çalışır ürün (MVP) sunulacak
+
+Odak: Entegrasyon ve final ürünün ortaya çıkarılması
 
 </details>
+
 
 
 <details>
@@ -48,6 +78,7 @@ Toplam 1000 puanlık bir hedef belirlenmiştir. Bu puanlar, her sprintte yapıla
 <br/>
 <img src="screenshots/trello.png" width="600"/>
 </details>
+
 
 ## Ürün Durumu
 
