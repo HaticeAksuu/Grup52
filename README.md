@@ -17,6 +17,7 @@
 ---
 <details>
 <summary><strong> Daily Scrum</strong></summary>
+    
 Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uygulamaları üzerinden yapıldı.
 
 <img src="screenshots/Toplantı.jpg" width="500"/>  
