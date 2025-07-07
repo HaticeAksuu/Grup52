@@ -23,7 +23,9 @@
 <img src="screenshots/Notlar.png" width="500"/>
 
 </details>
+
 ---
+
 <details>
 <summary><strong>Puanlama Sistemi</strong></summary>
 
