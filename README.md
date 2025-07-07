@@ -7,10 +7,10 @@
   - Pazar analizi tamamlandı.
   - Benzer projeler, akademik yayınlar ve mobil sağlık uygulamaları incelendi.
   - Projenin etik uygunluğu ve medikal doğruluğu göz önünde bulundurularak ön analizler yapıldı.
-<br/>
+<br>
 <strong> Veri Kaynakları</strong>  
 - Kaggle ve ISIC Archive, proje için temel veri kaynakları olarak belirlenmiştir.
-<br/>
+<br>
 <strong> Kullanılan Yapay Zeka</strong>  
 - Yapay zeka motoru olarak Gemini kullanılmasına karar verilmiştir.
 
@@ -19,7 +19,7 @@
 <summary><strong> Daily Scrum</strong></summary>
     
 Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uygulamaları üzerinden yapıldı.
-<br/>
+<br>
 <img src="screenshots/Toplantı.jpg" width="500"/>  
 <img src="screenshots/Toplantı2.png" width="500"/>  
 <img src="screenshots/Notlar.png" width="500"/>
