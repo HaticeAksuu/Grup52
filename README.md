@@ -87,6 +87,10 @@ Odak: Entegrasyon ve final ürünün ortaya çıkarılması
 
 - Veri seti ve kaynak taramaları halen devam etmektedir.  
 - KPI (Anahtar Performans Göstergeleri) için gerekli scriptlerin tanımlanmasına başlanmıştır.
+- Kullanıcı arayüzünün temel düzeni ve tasarım prensipleri netleştirilmiştir.
+
+  <img src="screenshots/Uygulama.jpg" width="600"/>
+
 ---
 <details>
 <summary><strong>Sprint Review</strong></summary>
