@@ -1,8 +1,6 @@
 # Sprint 1
 
-<details>
-<summary><strong>📝 Sprint Notları</strong></summary>
-
+## Sprint Notları
   
   - Proje fikri belirlendi. 
   - Fikrin uygulanabilirliği ve özgünlüğü açısından:
@@ -15,8 +13,6 @@
 <br/>
 <strong> Kullanılan Yapay Zeka</strong>  
 - Yapay zeka motoru olarak Gemini kullanılmasına karar verilmiştir.
-
-</details>
 
 
 <details>
