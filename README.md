@@ -2,44 +2,50 @@
 
 <details>
 <summary><strong>📝 Sprint Notları</strong></summary>
-- Proje fikri belirlendi. 
-- Fikrin uygulanabilirliği ve özgünlüğü açısından:
+  
+  - Proje fikri belirlendi. 
+  - Fikrin uygulanabilirliği ve özgünlüğü açısından:
   - Kaynak taraması yapıldı.
   - Veri seti incelemeleri gerçekleştirildi.
   - Pazar analizi tamamlandı.
 
 <br/>
 
-<strong>🔍 Veri Kaynakları</strong>  
+<strong> Veri Kaynakları</strong>  
 - Kaggle ve ISIC Archive, proje için temel veri kaynakları olarak belirlenmiştir.
 
 <br/>
 
-<strong>🧠 Kullanılan Yapay Zeka</strong>  
+<strong> Kullanılan Yapay Zeka</strong>  
 - Yapay zeka motoru olarak Gemini kullanılmasına karar verilmiştir.
 
 </details>
 
+
 <details>
-## Dialy Scrum
-![Toplantı](screenshots/Toplantı.jpg)
-![Toplantı](screenshots/Toplantı2.png)
-![Notlar](screenshots/Notlar.png)
+<summary><strong> Daily Scrum</strong></summary>
+
+<img src="screenshots/Toplantı.jpg" width="500"/>  
+<img src="screenshots/Toplantı2.png" width="500"/>  
+<img src="screenshots/Notlar.png" width="500"/>
+
 </details>
 
 <details>
-##  Puanlama Sistemi
-Puanlar, her sprintte yapılacak işlerin kapsamına, zorluk derecesine ve proje üzerindeki etkisine göre dağıtılmıştır.
+<summary><strong>Puanlama Sistemi</strong></summary>
 
-### Sprint Puanlama ve Tamamlama Mantığı
-Toplam 1000 puanlık bir hedef belirlenmiştir. 
+<strong> Sprint Puanlama ve Tamamlama Mantığı</strong>  
 
-İlk sprintte, planlama ve hazırlık süreci tamamlandığı için Sprint 1 için 250 puanlık hedef belirlenmiş ve bu hedef başarıyla tamamlanmıştır.
+Toplam 1000 puanlık bir hedef belirlenmiştir. Bu puanlar, her sprintte yapılacak işlerin kapsamına, zorluk derecesine ve proje üzerindeki etkisine göre dağıtılmıştır.
 
-İkinci sprintte, odak noktası sistemin temelini oluşturan yapay zeka modelinin geliştirilmesi ve kodlama sürecinin başlatılmasıdır. Veri setleri temizlenmesi, sınıflandırma modeli eğitilmeye başlanması, temel API mimarisi kurulması ve görsel analiz fonksiyonları test edilmesi. Bu sprintte teknik çalışmalar ön plandadır ve bu nedenle 350 puan hedeflenmiştir.
+**Sprint 1 (250 puan):** Planlama ve hazırlık süreci tamamlandığı için bu hedef başarıyla gerçekleştirilmiştir.
 
-Üçüncü sprintte ise projenin tamamlanması hedeflenmektedir. Bu kapsamda arayüz ile modelin entegrasyonu sağlanması, kullanıcıdan alınan görsellerle sistemin analiz yapması mümkün hale gelmesi. Ayrıca hata ayıklama, testler ve kullanıcı deneyimi iyileştirmeleri yapılması. Bu sprint için 400 puanlık bir hedef belirlenmiştir.
+**Sprint 2 (350 puan):** Yapay zeka modelinin geliştirilmesi, veri işleme, kodlama ve API kurulumuna odaklanılacaktır.
+
+**Sprint 3 (400 puan):** Arayüz ve model entegrasyonu, testler ve minimum çalışır ürünün (MVP) ortaya çıkarılması hedeflenmektedir.
+
 </details>
+
 
 <details>
 ##  Sprint Board
