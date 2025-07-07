@@ -14,7 +14,7 @@
 <strong> Kullanılan Yapay Zeka</strong>  
 - Yapay zeka motoru olarak Gemini kullanılmasına karar verilmiştir.
 
-<br/>
+---
 <details>
 <summary><strong> Daily Scrum</strong></summary>
 
@@ -23,7 +23,7 @@
 <img src="screenshots/Notlar.png" width="500"/>
 
 </details>
-
+---
 <details>
 <summary><strong>Puanlama Sistemi</strong></summary>
 
@@ -67,7 +67,7 @@ Odak: Entegrasyon ve final ürünün ortaya çıkarılması
 
 </details>
 
-
+---
 
 <details>
 <summary><strong>Sprint Board</strong></summary>
@@ -78,12 +78,12 @@ Odak: Entegrasyon ve final ürünün ortaya çıkarılması
 <img src="screenshots/trello.png" width="600"/>
 </details>
 
-
+---
 ## Ürün Durumu
 
 - Veri seti ve kaynak taramaları halen devam etmektedir.  
 - KPI (Anahtar Performans Göstergeleri) için gerekli scriptlerin tanımlanmasına başlanmıştır.
-
+---
 <details>
 <summary><strong>Sprint Review</strong></summary>
   
