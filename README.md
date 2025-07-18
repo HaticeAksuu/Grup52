@@ -122,7 +122,8 @@ Görev dağılımı yapıldı; ancak görevlerin sürelerine göre yeniden planl
 
 <br>
 
-
+<details>
+  
 <summary><strong> Daily Scrum</strong></summary>
     
 Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uygulamaları üzerinden yapıldı.
