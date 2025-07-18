@@ -144,7 +144,7 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 - API mimarisi kurulacak ve test edilecek
 
  Odak: Teknik geliştirme ve yapay zeka entegrasyonu
-Hedef başarıyla tamamlandı.
+ Hedef başarıyla tamamlandı.
 
 </details>
 
