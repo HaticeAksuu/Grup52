@@ -189,6 +189,5 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 <summary><strong> Sprint Retrospective</strong></summary>
 
 - Sprint başlangıcında planlanan bazı görevlerin kapsamı geliştirme sırasında genişledi; bu durum zaman yönetimini zorlaştırdı. Gelecek sprintte özellik eklenmeden önce iş kapsamı daha net tanımlanmalı.
-- Trello ve Gemini araçları etkili bir şekilde kullanıldı.  
 
 </details>
