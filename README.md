@@ -142,8 +142,7 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 - Veri seti işlenecek  
 - Sınıflandırma ve analiz fonksiyonları yazılacak  
 - API mimarisi kurulacak ve test edilecek
-
- Odak: Teknik geliştirme ve yapay zeka entegrasyonu
+  
  Hedef başarıyla tamamlandı.
 
 </details>
@@ -154,7 +153,7 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 <summary><strong>Sprint Board</strong></summary>
 
 <br/>
-<img src="screenshots/trello.png" width="600"/>
+<img src="s" width="600"/>
 </details>
 
 ---
