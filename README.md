@@ -173,13 +173,13 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 <details>
 <summary><strong>Sprint Review</strong></summary>
 
-Proje iskeleti oluşturuldu; temel dosya yapısı tanımlandı.
-Kayıt ve giriş sistemleri tasarlandı.
-Yapay zeka modeli oluşturularak Kaggle ve ISIC Archive veri setleriyle eğitildi.
-Veri ön işleme süreci tamamlandı; etiketleme ve sınıflandırma hazırlıkları yapıldı.
-Sınıflandırma ve analiz fonksiyonları yazıldı; temel çıktı analizi başarıyla çalıştırıldı.
-API mimarisi kuruldu ve yapay zeka modeli ile bağlantısı test edildi.
-API kullanımı ve dış servis entegrasyonu konusunda ön araştırmalar yapıldı.
+- Proje iskeleti oluşturuldu; temel dosya yapısı tanımlandı.
+- Kayıt ve giriş sistemleri tasarlandı.
+- Yapay zeka modeli oluşturularak Kaggle ve ISIC Archive veri setleriyle eğitildi.
+- Veri ön işleme süreci tamamlandı; etiketleme ve sınıflandırma hazırlıkları yapıldı.
+- Sınıflandırma ve analiz fonksiyonları yazıldı; temel çıktı analizi başarıyla çalıştırıldı.
+- API mimarisi kuruldu ve yapay zeka modeli ile bağlantısı test edildi.
+- API kullanımı ve dış servis entegrasyonu konusunda ön araştırmalar yapıldı.
 
 **Sprint Review Katılımcıları:** Hatice Aksu, Miray Aykın
 
