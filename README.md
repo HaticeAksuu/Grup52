@@ -145,6 +145,7 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 
  Odak: Teknik geliştirme ve yapay zeka entegrasyonu
 Hedef başarıyla tamamlandı.
+
 </details>
 
 ---
