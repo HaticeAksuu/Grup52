@@ -113,3 +113,78 @@ Görev dağılımı yapıldı; ancak görevlerin sürelerine göre yeniden planl
 </details>
 
 # Sprint 2
+## Sprint Notları
+  
+  - Projenin teknik altyapısını oluşturacak şekilde proje iskeleti belirlendi
+  - Yapay zeka modelinin eğitilmesi için Kaggle ve ISIC Archive veri setleri işlendi ve sınıflandırma için uygun hale getirildi.
+  - Modelin kullanıcıdan görsel alarak analiz yapabileceği bir API mimarisi geliştirildi.
+  - Benzer projeler, akademik yayınlar ve mobil sağlık uygulamaları incelendi.
+
+<br>
+
+
+<summary><strong> Daily Scrum</strong></summary>
+    
+Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uygulamaları üzerinden yapıldı.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Puanlama Sistemi</strong></summary>
+
+### Sprint Puanlama
+
+🔹 **Sprint 2 – 350 Puan**  
+- Yapay zeka modeli geliştirilecek  
+- Veri seti işlenecek  
+- Sınıflandırma ve analiz fonksiyonları yazılacak  
+- API mimarisi kurulacak ve test edilecek
+
+ Odak: Teknik geliştirme ve yapay zeka entegrasyonu
+Hedef başarıyla tamamlandı.
+---
+
+<details>
+<summary><strong>Sprint Board</strong></summary>
+
+<br/>
+<img src="screenshots/trello.png" width="600"/>
+</details>
+
+---
+## Ürün Durumu
+
+ Teknik Gelişim Durumu:
+- Yapay zeka modeli başarıyla oluşturuldu.
+- Veri setleri temizlenip işlenerek modele entegre edildi.
+- Sınıflandırma ve analiz fonksiyonları geliştirildi.
+- API mimarisi kuruldu ve temel entegrasyon testleri yapıldı.
+- Model, dış istekleri API üzerinden yanıtlayabilecek şekilde hazırlandı.
+
+  <img src="" width="600"/>
+
+---
+<details>
+<summary><strong>Sprint Review</strong></summary>
+
+Proje iskeleti oluşturuldu; temel dosya yapısı tanımlandı.
+Kayıt ve giriş sistemleri tasarlandı.
+Yapay zeka modeli oluşturularak Kaggle ve ISIC Archive veri setleriyle eğitildi.
+Veri ön işleme süreci tamamlandı; etiketleme ve sınıflandırma hazırlıkları yapıldı.
+Sınıflandırma ve analiz fonksiyonları yazıldı; temel çıktı analizi başarıyla çalıştırıldı.
+API mimarisi kuruldu ve yapay zeka modeli ile bağlantısı test edildi.
+API kullanımı ve dış servis entegrasyonu konusunda ön araştırmalar yapıldı.
+
+**Sprint Review Katılımcıları:** Hatice Aksu, Miray Aykın
+
+</details>
+
+<details>
+<summary><strong> Sprint Retrospective</strong></summary>
+
+- Sprint başlangıcında planlanan bazı görevlerin kapsamı geliştirme sırasında genişledi; bu durum zaman yönetimini zorlaştırdı. Gelecek sprintte özellik eklenmeden önce iş kapsamı daha net tanımlanmalı.
+- Trello ve Gemini araçları etkili bir şekilde kullanıldı.  
+
+</details>
