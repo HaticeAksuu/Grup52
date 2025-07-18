@@ -112,4 +112,4 @@ Görev dağılımı yapıldı; ancak görevlerin sürelerine göre yeniden planl
 
 </details>
 
-
+# Sprint 2
