@@ -136,7 +136,7 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 
 ### Sprint Puanlama
 
-🔹 **Sprint 2 – 350 Puan**  
+**Sprint 2 – 350 Puan**  
 - Yapay zeka modeli geliştirilecek  
 - Veri seti işlenecek  
 - Sınıflandırma ve analiz fonksiyonları yazılacak  
