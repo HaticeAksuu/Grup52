@@ -119,6 +119,8 @@ Görev dağılımı yapıldı; ancak görevlerin sürelerine göre yeniden planl
   - Yapay zeka modelinin eğitilmesi için Kaggle ve ISIC Archive veri setleri işlendi ve sınıflandırma için uygun hale getirildi.
   - Modelin kullanıcıdan görsel alarak analiz yapabileceği bir API mimarisi geliştirildi.
   - Benzer projeler, akademik yayınlar ve mobil sağlık uygulamaları incelendi.
+  - Web sitesi tasarımına geçilmeye karar verildi.
+  - Web sitesi içeriği belirlendi.
 
 <br>
 
@@ -142,6 +144,7 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 - Veri seti işlenecek  
 - Sınıflandırma ve analiz fonksiyonları yazılacak  
 - API mimarisi kurulacak ve test edilecek
+
   
  Hedef başarıyla tamamlandı.
 
@@ -162,9 +165,8 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
  Teknik Gelişim Durumu:
 - Yapay zeka modeli başarıyla oluşturuldu.
 - Veri setleri temizlenip işlenerek modele entegre edildi.
-- Sınıflandırma ve analiz fonksiyonları geliştirildi.
 - API mimarisi kuruldu ve temel entegrasyon testleri yapıldı.
-- Model, dış istekleri API üzerinden yanıtlayabilecek şekilde hazırlandı.
+
 
   <img src="" width="600"/>
 
@@ -173,12 +175,15 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 <summary><strong>Sprint Review</strong></summary>
 
 - Proje iskeleti oluşturuldu; temel dosya yapısı tanımlandı.
-- Kayıt ve giriş sistemleri tasarlandı.
 - Yapay zeka modeli oluşturularak Kaggle ve ISIC Archive veri setleriyle eğitildi.
 - Veri ön işleme süreci tamamlandı; etiketleme ve sınıflandırma hazırlıkları yapıldı.
 - Sınıflandırma ve analiz fonksiyonları yazıldı; temel çıktı analizi başarıyla çalıştırıldı.
 - API mimarisi kuruldu ve yapay zeka modeli ile bağlantısı test edildi.
-- API kullanımı ve dış servis entegrasyonu konusunda ön araştırmalar yapıldı.
+- Web sitesi tasarımı yapıldı
+- Kayıt ve giriş sistemleri tasarlandı.
+- Anasayfa içeriği belirlendi.
+- Profil sayfası belirlendi.
+
 
 **Sprint Review Katılımcıları:** Hatice Aksu, Miray Aykın
 
