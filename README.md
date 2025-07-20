@@ -162,6 +162,8 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 
 ---
 ## Ürün Durumu
+<img src="screenshots/website1.png" width="600"/>
+<img src="screenshots/website2.png" width="600"/>
 
 
 
