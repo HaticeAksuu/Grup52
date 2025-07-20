@@ -164,6 +164,8 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 ---
 ## Ürün Durumu
 Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırılmıştır. Geliştirme sürecinde ihtiyaç duyuldukça yeni etiketler eklenecek veya değiştirilecektır.
+
+<br/>
 <img src="screenshots/website1.png" width="600"/>
 <img src="screenshots/website2.png" width="600"/>
 
