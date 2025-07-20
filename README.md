@@ -157,12 +157,13 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 <summary><strong>Sprint Board</strong></summary>
 
 <br/>
-<img src="s" width="600"/>
+<img src="screenshots/trello2.png" width="600"/>
+<img src="screenshots/trello3.png" width="600"/>
 </details>
 
 ---
 ## Ürün Durumu
-
+Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırılmıştır. Geliştirme sürecinde ihtiyaç duyuldukça yeni etiketler eklenecek veya değiştirilecektır.
 <img src="screenshots/website1.png" width="600"/>
 <img src="screenshots/website2.png" width="600"/>
 
