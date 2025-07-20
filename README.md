@@ -56,6 +56,7 @@ Hedef başarıyla tamamlandı.
 - Veri seti işlenecek  
 - Sınıflandırma ve analiz fonksiyonları yazılacak  
 - API mimarisi kurulacak ve test edilecek
+- Web sitesi geliştirilecek.
 
  Odak: Teknik geliştirme ve yapay zeka entegrasyonu
 
@@ -115,13 +116,12 @@ Görev dağılımı yapıldı; ancak görevlerin sürelerine göre yeniden planl
 # Sprint 2
 ## Sprint Notları
   
-  - Projenin teknik altyapısını oluşturacak şekilde proje iskeleti belirlendi
-  - Yapay zeka modelinin eğitilmesi için Kaggle ve ISIC Archive veri setleri işlendi ve sınıflandırma için uygun hale getirildi.
+  - Projenin teknik altyapısını oluşturmak için genel proje iskeleti belirlendi.
+  - Yapay zeka modelinin eğitimi için Kaggle ve ISIC Archive veri setleri indirildi, temizlendi ve sınıflandırma için uygun hale getirildi.
   - Modelin kullanıcıdan görsel alarak analiz yapabileceği bir API mimarisi geliştirildi.
   - Benzer projeler, akademik yayınlar ve mobil sağlık uygulamaları incelendi.
   - Web sitesi tasarımına geçilmeye karar verildi.
-  - Web sitesi içeriği belirlendi.
-
+  - Web sitesinin içeriği ve sayfa yapıları tanımlandı.
 <br>
 
 <details>
@@ -144,6 +144,7 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 - Veri seti işlenecek  
 - Sınıflandırma ve analiz fonksiyonları yazılacak  
 - API mimarisi kurulacak ve test edilecek
+- Web sitesi geliştirilecek.
 
   
  Hedef başarıyla tamamlandı.
@@ -162,10 +163,7 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 ---
 ## Ürün Durumu
 
- Teknik Gelişim Durumu:
-- Yapay zeka modeli başarıyla oluşturuldu.
-- Veri setleri temizlenip işlenerek modele entegre edildi.
-- API mimarisi kuruldu ve temel entegrasyon testleri yapıldı.
+
 
 
   <img src="" width="600"/>
@@ -193,6 +191,8 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 <details>
 <summary><strong> Sprint Retrospective</strong></summary>
 
-- Sprint başlangıcında planlanan bazı görevlerin kapsamı geliştirme sırasında genişledi; bu durum zaman yönetimini zorlaştırdı. Gelecek sprintte özellik eklenmeden önce iş kapsamı daha net tanımlanmalı.
+- Takım içinde görev dağılımı netti, ancak bazı görevlerde zaman tahminleri yetersiz kaldı. Gelecek sprintlerde daha dikkatli zaman tahminleri yapılmalı.
+- Sprint boyunca yapılan ilerleme yeterliydi ama ilerlemeyi görselleştirmek için Trello daha aktif kullanılması gerekiyor.
+- Proje içinde kaynak yönetimi zaman zaman karmaşaya yol açtı. Dosya yönetim sistemine daha fazla özen gösterilmesi gerekiyor.
 
 </details>
