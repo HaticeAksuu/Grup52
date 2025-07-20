@@ -1,3 +1,15 @@
+<h1 align="center"><strong>LumiSkin AI</strong></h1>
+
+## Team Members
+
+| Name                | Title          | Social   |
+|---------------------|----------------|----------|
+| Miray Aykın         | Scrum Master   |  |
+| Hatice Aksu         | Product Owner  |  |
+| Sudem Zırhlı        | Developer      |  |
+
+---
+
 # Sprint 1
 
 ## Sprint Notları
