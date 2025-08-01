@@ -2,11 +2,11 @@
 
 ## Team Members
 
-| Name                | Title          | Social   |
-|---------------------|----------------|----------|
-| Miray Aykın         | Scrum Master   |  |
-| Hatice Aksu         | Product Owner  |  |
-| Sudem Zırhlı        | Developer      |  |
+| Name                | Title          | 
+|---------------------|----------------|
+| Miray Aykın         | Scrum Master   |  
+| Hatice Aksu         | Product Owner  |  
+| Sudem Zırhlı        | Developer      |  
 
 ---
 
@@ -69,6 +69,7 @@ Hedef başarıyla tamamlandı.
 - Sınıflandırma ve analiz fonksiyonları yazılacak  
 - API mimarisi kurulacak ve test edilecek
 - Web sitesi geliştirilecek.
+- Veri temizleme yapılacak.
 
  Odak: Teknik geliştirme ve yapay zeka entegrasyonu
 
@@ -134,6 +135,7 @@ Görev dağılımı yapıldı; ancak görevlerin sürelerine göre yeniden planl
   - Benzer projeler, akademik yayınlar ve mobil sağlık uygulamaları incelendi.
   - Web sitesi tasarımına geçilmeye karar verildi.
   - Web sitesinin içeriği ve sayfa yapıları tanımlandı.
+  - Veri seti temizlemeleri yapıldı.
 <br>
 
 <details>
@@ -157,7 +159,7 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 - Sınıflandırma ve analiz fonksiyonları yazılacak  
 - API mimarisi kurulacak ve test edilecek
 - Web sitesi geliştirilecek.
-
+- Veri temizleme yapılacak.
   
  Hedef başarıyla tamamlandı.
 
@@ -210,3 +212,69 @@ Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırı
 - Proje içinde kaynak yönetimi zaman zaman karmaşaya yol açtı. Dosya yönetim sistemine daha fazla özen gösterilmesi gerekiyor.
 
 </details>
+
+# Sprint 3
+## Sprint Notları
+  
+
+<br>
+
+<details>
+  
+<summary><strong> Daily Scrum</strong></summary>
+    
+Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uygulamaları üzerinden yapıldı.
+
+</details>
+
+---
+
+<details>
+<summary><strong>Puanlama Sistemi</strong></summary>
+
+### Sprint Puanlama
+
+🔹 **Sprint 3 – 400 Puan**  
+- Kullanıcı arayüzü geliştirilecek  
+- Arayüz–model–API entegrasyonu yapılacak  
+- Sistem genel testleri gerçekleştirilecek  
+- Minimum çalışır ürün (MVP) sunulacak
+
+</details>
+
+---
+
+<details>
+<summary><strong>Sprint Board</strong></summary>
+Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırılmıştır. Geliştirme sürecinde ihtiyaç duyuldukça yeni etiketler eklenecek veya değiştirilecektır.
+<br/>
+<img src=".png" width="600"/>
+<img src=".png" width="600"/>
+</details>
+
+---
+## Ürün Durumu
+
+
+<br/>
+<img src=".png" width="600"/>
+<img src=".png" width="600"/>
+
+
+---
+<details>
+<summary><strong>Sprint Review</strong></summary>
+
+
+
+
+**Sprint Review Katılımcıları:** Hatice Aksu, Miray Aykın, Sudem Zırhlı
+
+</details>
+
+<details>
+<summary><strong> Sprint Retrospective</strong></summary>
+
+
+</details>
+
