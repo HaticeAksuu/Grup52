@@ -215,7 +215,14 @@ Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırı
 
 # Sprint 3
 ## Sprint Notları
-  
+ - Model dosyası (model.h5) TensorFlow Keras ile entegre edildi.
+ - React frontend tarafında fotoğraf yükleme arayüzü oluşturuldu.
+ - Axios kullanılarak frontend-backend arasında dosya transferi sağlandı.
+ - CORS problemleri için backend’e gerekli ayar eklendi.
+ - Kullanıcı deneyimi için yükleme esnasında loading göstergesi ve hata mesajları eklendi.
+ - Tahmin sonuçları JSON formatında backend’den alınıp frontend’de gösterildi.
+ - Model input shape hatası (ValueError) incelendi ve çözüm önerileri sunuldu.
+
 
 <br>
 
@@ -264,7 +271,11 @@ Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırı
 ---
 <details>
 <summary><strong>Sprint Review</strong></summary>
-
+ - Proje frontend ve backend entegrasyonu çalışır hale getirildi.
+ - Fotoğraf yükleme ve modelden tahmin alma süreci test edildi.
+ - Kullanıcı arayüzü temel işlevsellik ile tamamlandı.
+ - Hata yönetimi ve kullanıcı bilgilendirmeleri implement edildi.
+ - TensorFlow model input formatı ve uyumu konusunda önemli geribildirimler alındı.
 
 
 
@@ -275,6 +286,9 @@ Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırı
 <details>
 <summary><strong> Sprint Retrospective</strong></summary>
 
+  - Backend ve frontend entegrasyonunda CORS ve veri formatı konularına daha erken odaklanılmalıydı.
+  - Paket kurulumu ve proje yapılandırması daha dikkatli takip edilmeli, eksik bağımlılıklar engellenmeli.
+  - Uyarı ve deprecation mesajları göz ardı edilmemeli, ilerleyen aşamalarda çözülmeli.
 
 </details>
 
