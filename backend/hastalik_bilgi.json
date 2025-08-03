@@ -1,0 +1,37 @@
+{
+  "akiec": {
+    "name": "Aktinik Keratoz",
+    "description": "Güneşe uzun süre maruz kalma sonucu oluşan, ciltte pürüzlü veya pullu lekeler şeklinde görülen bir cilt lezyonudur. Tedavi edilmezse cilt kanserine dönüşme potansiyeli taşır.",
+    "recommendations": "Güneşten korunmak için şapka ve güneş kremi kullanın. Cilt lezyonlarınız için mutlaka bir dermatologla görüşün."
+  },
+  "bbc": {
+    "name": "Bazal Hücreli Karsinom",
+    "description": "Cilt kanserinin en yaygın türüdür. Genellikle yavaş büyür ve nadiren vücudun diğer bölgelerine yayılır. Parlak, mumsu bir yumru veya düz, et rengi bir yara olarak görünebilir.",
+    "recommendations": "Erken teşhis önemlidir. Lezyonlarınızı kontrol ettirmek için bir dermatologla randevu alın."
+  },
+  "bkl": {
+    "name": "Benign Keratoz-Likenoid",
+    "description": "Genellikle yaşlılık lekeleri olarak bilinen iyi huylu (kanserli olmayan) cilt büyümeleridir. Renkleri açık kahverengiden siyaha kadar değişebilir ve kabarık bir görünüme sahip olabilirler.",
+    "recommendations": "Genellikle tedavi gerektirmezler ancak kozmetik nedenlerle veya tahriş edici olduklarında çıkarılabilirler. Emin olmak için bir uzmana danışın."
+  },
+  "df": {
+    "name": "Dermatofibrom",
+    "description": "Genellikle bacaklarda ve kollarda görülen, ciltte oluşan küçük, sert, kırmızımsı kahverengi nodüllerdir. Genellikle iyi huyludur ve kaşıntılı olabilir.",
+    "recommendations": "Çoğu zaman tedaviye ihtiyaç duymazlar. Ancak rahatsızlık veriyorsa veya görünümü konusunda endişeleriniz varsa bir dermatoloğa danışın."
+  },
+  "mel": {
+    "name": "Melanom",
+    "description": "Cildin melanosit adı verilen pigment üreten hücrelerinden kaynaklanan ciddi bir cilt kanseri türüdür. Genellikle mevcut bir benin değişmesi veya yeni, anormal bir benin ortaya çıkması şeklinde görülür. Erken teşhis hayat kurtarıcıdır.",
+    "recommendations": "Benlerinizde veya cilt lekelerinizde herhangi bir değişiklik fark ederseniz (asimetri, düzensiz kenarlar, renk değişikliği, çap artışı), derhal bir dermatolog tarafından değerlendirilmesini sağlayın."
+  },
+  "nv": {
+    "name": "Melanositik Nevüs (Ben)",
+    "description": "Yaygın benler olarak bilinen iyi huylu cilt büyümeleridir. Genellikle kahverengi veya siyah renktedirler ve düz veya kabarık olabilirler. Genellikle zararsızdırlar ancak bazıları zamanla değişebilir.",
+    "recommendations": "Düzenli olarak benlerinizi kontrol edin ve herhangi bir değişiklik (boyut, şekil, renk, kanama) fark ederseniz bir dermatoloğa gösterin."
+  },
+  "vasc": {
+    "name": "Vasküler Lezyonlar",
+    "description": "Ciltteki kan damarlarının anormalliklerinden kaynaklanan lezyonlardır. Çeşitli şekillerde (çilek hemanjiyomları, telanjiektaziler, anjiyomlar gibi) ortaya çıkabilirler ve genellikle kırmızı veya mor renklidirler.",
+    "recommendations": "Çoğu vasküler lezyon iyi huyludur. Ancak görünümleri veya boyutları değişirse bir dermatoloğa danışmak faydalı olabilir."
+  }
+}
