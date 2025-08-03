@@ -1,0 +1,108 @@
+.profile-container {
+  max-width: 450px;
+  margin: 50px auto;
+  background-color: #ffffff;
+  padding: 30px 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.profile-title {
+  text-align: center;
+  color: #0066cc;
+  margin-bottom: 25px;
+  font-size: 2rem;
+}
+
+.profile-form label {
+  display: block;
+  margin-top: 15px;
+  font-weight: 600;
+  color: #00509e;
+}
+
+.profile-form input {
+  width: 100%;
+  padding: 10px 12px;
+  margin-top: 6px;
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  font-size: 1rem;
+  transition: border-color 0.3s ease;
+}
+
+.input-editable {
+  border-color: #007bff;
+}
+
+.input-editable:focus {
+  outline: none;
+  border-color: #0056b3;
+  box-shadow: 0 0 6px #0056b3aa;
+}
+
+.input-disabled {
+  background-color: #f7f7f7;
+  color: #888;
+  border-color: #ddd;
+  cursor: not-allowed;
+}
+
+.button-group {
+  margin-top: 25px;
+  text-align: center;
+}
+
+.btn {
+  padding: 12px 28px;
+  border: none;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  cursor: pointer;
+  margin: 0 10px;
+  transition: background-color 0.3s ease;
+  color: white;
+  font-weight: 600;
+  user-select: none;
+}
+
+.btn-edit {
+  background-color: #007bff;
+}
+
+.btn-edit:hover {
+  background-color: #0056b3;
+}
+
+.btn-save {
+  background-color: #28a745;
+}
+
+.btn-save:hover {
+  background-color: #1e7e34;
+}
+
+.btn-cancel {
+  background-color: #6c757d;
+}
+
+.btn-cancel:hover {
+  background-color: #565e64;
+}
+
+.profile-info {
+  margin-top: 30px;
+  background-color: #f4faff;
+  padding: 20px 25px;
+  border-radius: 10px;
+  border: 1px solid #cce0ff;
+  font-size: 1.05rem;
+  color: #004085;
+}
+
+.profile-info h3 {
+  margin-bottom: 12px;
+  font-weight: 700;
+}
