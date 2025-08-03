@@ -253,7 +253,7 @@ Daily scrum toplantıları, ekibin uygunluğuna göre WhatsApp ve Google Meet uy
 
 <details>
 <summary><strong>Sprint Board</strong></summary>
-Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırılmıştır. Geliştirme sürecinde ihtiyaç duyuldukça yeni etiketler eklenecek veya değiştirilecektır.
+Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırılmıştır.
 <br/>
 <img src=".png" width="600"/>
 <img src=".png" width="600"/>
@@ -289,6 +289,7 @@ Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırı
   - Backend ve frontend entegrasyonunda CORS ve veri formatı konularına daha erken odaklanılmalıydı.
   - Paket kurulumu ve proje yapılandırması daha dikkatli takip edilmeli, eksik bağımlılıklar engellenmeli.
   - Uyarı ve deprecation mesajları göz ardı edilmemeli, ilerleyen aşamalarda çözülmeli.
+  - Model doğruluğu arttırılmalı.
 
 </details>
 
