@@ -264,9 +264,11 @@ Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırı
 
 
 <br/>
-<img src=".png" width="600"/>
-<img src=".png" width="600"/>
-
+<img src="screenshots/web3.png" width="600"/>
+<img src="screenshots/web4.png" width="600"/>
+<img src="screenshots/web5.png" width="600"/>
+<img src="screenshots/web6.png" width="600"/>
+<img src="screenshots/web7.png" width="600"/>
 
 ---
 <details>
