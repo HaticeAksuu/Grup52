@@ -275,7 +275,7 @@ Trello etiketleri; Araştırma, Tasarım, Test ve Teknik olarak sınıflandırı
 <summary><strong>Sprint Review</strong></summary>
   
   - Proje frontend ve backend entegrasyonu çalışır hale getirildi.
-  - - Fotoğraf yükleme ve modelden tahmin alma süreci test edildi.
+  - Fotoğraf yükleme ve modelden tahmin alma süreci test edildi.
   - Kullanıcı arayüzü temel işlevsellik ile tamamlandı.
   - Hata yönetimi ve kullanıcı bilgilendirmeleri implement edildi.
   - TensorFlow model input formatı ve uyumu konusunda önemli geribildirimler alındı.
